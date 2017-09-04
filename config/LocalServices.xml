@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<LocalServices>
+	<LocalService class="com.dreamgear.majiang.game.server.EntryGameServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.HeartServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.UserDataServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameChaServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameEatServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameHuServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameOutBrandServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGamePassServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.RoomServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameGangServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.WXSingServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.ChatServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.SystemServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.RoomListServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.ReinroomServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.PayGiftServer" />
+	<LocalService class="com.dreamgear.majiang.game.server.InGameTingServer" />
+	
+</LocalServices>

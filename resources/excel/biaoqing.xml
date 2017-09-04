@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biaoqings>
+<!--  |id:id  |count:钻石  |animationname:动画名称  |iconname:图标名称-->
+<biaoqing animationname="dabian" count="3" iconname="dabian_icon" id="0"/>
+<biaoqing animationname="pijiu" count="3" iconname="pujiu_icon" id="1"/>
+<biaoqing animationname="qinwen" count="3" iconname="qinwen_icon" id="2"/>
+<biaoqing animationname="zhadan" count="3" iconname="zhadan_icon" id="3"/>
+</biaoqings>

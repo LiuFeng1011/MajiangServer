@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rooms>
+<!--  |id:id  |time:时间  |timetype:时间类型  |gold:钻石-->
+<room gold="50" id="1" time="1" timetype="m"/>
+<room gold="100" id="2" time="2" timetype="m"/>
+<room gold="140" id="3" time="3" timetype="m"/>
+<room gold="180" id="4" time="4" timetype="m"/>
+</rooms>

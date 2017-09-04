@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<iaps>
+<!--  |id:id  |price:价格（RMB）  |count:钻石-->
+<iap count="1050" id="1" price="10"/>
+<iap count="3300" id="2" price="30"/>
+<iap count="5500" id="3" price="50"/>
+<iap count="11500" id="4" price="100"/>
+<iap count="100" id="5" price="1"/>
+</iaps>

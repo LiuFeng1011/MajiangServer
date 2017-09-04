@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<majiangs>
+<!--  |id:id  |index:索引  |name:名字  |type:类型 1万 2条 3饼 4风 5箭  |islink:是否可以串  |picname:图片名称  |soundname:音效名称-->
+<majiang id="0" index="101" islink="1" name="1WANG" picname="pai_0_wan_1.png" soundname="0_1.mp3" type="1"/>
+<majiang id="1" index="102" islink="1" name="2WANG" picname="pai_0_wan_2.png" soundname="0_2.mp3" type="1"/>
+<majiang id="2" index="103" islink="1" name="3WANG" picname="pai_0_wan_3.png" soundname="0_3.mp3" type="1"/>
+<majiang id="3" index="104" islink="1" name="4WANG" picname="pai_0_wan_4.png" soundname="0_4.mp3" type="1"/>
+<majiang id="4" index="105" islink="1" name="5WANG" picname="pai_0_wan_5.png" soundname="0_5.mp3" type="1"/>
+<majiang id="5" index="106" islink="1" name="6WANG" picname="pai_0_wan_6.png" soundname="0_6.mp3" type="1"/>
+<majiang id="6" index="107" islink="1" name="7WANG" picname="pai_0_wan_7.png" soundname="0_7.mp3" type="1"/>
+<majiang id="7" index="108" islink="1" name="8WANG" picname="pai_0_wan_8.png" soundname="0_8.mp3" type="1"/>
+<majiang id="8" index="109" islink="1" name="9WANG" picname="pai_0_wan_9.png" soundname="0_9.mp3" type="1"/>
+<majiang id="9" index="201" islink="1" name="1TIAO" picname="pai_1_tiao_1.png" soundname="0_11.mp3" type="2"/>
+<majiang id="10" index="202" islink="1" name="2TIAO" picname="pai_1_tiao_2.png" soundname="0_12.mp3" type="2"/>
+<majiang id="11" index="203" islink="1" name="3TIAO" picname="pai_1_tiao_3.png" soundname="0_13.mp3" type="2"/>
+<majiang id="12" index="204" islink="1" name="4TIAO" picname="pai_1_tiao_4.png" soundname="0_14.mp3" type="2"/>
+<majiang id="13" index="205" islink="1" name="5TIAO" picname="pai_1_tiao_5.png" soundname="0_15.mp3" type="2"/>
+<majiang id="14" index="206" islink="1" name="6TIAO" picname="pai_1_tiao_6.png" soundname="0_16.mp3" type="2"/>
+<majiang id="15" index="207" islink="1" name="7TIAO" picname="pai_1_tiao_7.png" soundname="0_17.mp3" type="2"/>
+<majiang id="16" index="208" islink="1" name="8TIAO" picname="pai_1_tiao_8.png" soundname="0_18.mp3" type="2"/>
+<majiang id="17" index="209" islink="1" name="9TIAO" picname="pai_1_tiao_9.png" soundname="0_19.mp3" type="2"/>
+<majiang id="18" index="301" islink="1" name="1BING" picname="pai_2_bing_1.png" soundname="0_21.mp3" type="3"/>
+<majiang id="19" index="302" islink="1" name="2BING" picname="pai_2_bing_2.png" soundname="0_22.mp3" type="3"/>
+<majiang id="20" index="303" islink="1" name="3BING" picname="pai_2_bing_3.png" soundname="0_23.mp3" type="3"/>
+<majiang id="21" index="304" islink="1" name="4BING" picname="pai_2_bing_4.png" soundname="0_24.mp3" type="3"/>
+<majiang id="22" index="305" islink="1" name="5BING" picname="pai_2_bing_5.png" soundname="0_25.mp3" type="3"/>
+<majiang id="23" index="306" islink="1" name="6BING" picname="pai_2_bing_6.png" soundname="0_26.mp3" type="3"/>
+<majiang id="24" index="307" islink="1" name="7BING" picname="pai_2_bing_7.png" soundname="0_27.mp3" type="3"/>
+<majiang id="25" index="308" islink="1" name="8BING" picname="pai_2_bing_8.png" soundname="0_28.mp3" type="3"/>
+<majiang id="26" index="309" islink="1" name="9BING" picname="pai_2_bing_9.png" soundname="0_29.mp3" type="3"/>
+<majiang id="27" index="401" islink="0" name="DONG" picname="pai_3_dong.png" soundname="0_31.mp3" type="4"/>
+<majiang id="28" index="402" islink="0" name="NAN" picname="pai_4_nan.png" soundname="0_32.mp3" type="4"/>
+<majiang id="29" index="403" islink="0" name="XI" picname="pai_5_xi.png" soundname="0_33.mp3" type="4"/>
+<majiang id="30" index="404" islink="0" name="BEI" picname="pai_6_bei.png" soundname="0_34.mp3" type="4"/>
+<majiang id="31" index="501" islink="0" name="ZHONG" picname="pai_7_zhong.png" soundname="0_35.mp3" type="5"/>
+<majiang id="32" index="502" islink="0" name="FA" picname="pai_8_fa.png" soundname="0_36.mp3" type="5"/>
+<majiang id="33" index="503" islink="0" name="BAI" picname="pai_9_bai.png" soundname="0_37.mp3" type="5"/>
+</majiangs>
